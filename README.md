@@ -1,1 +1,3 @@
-# Music-App-in-JavaScript
+# Music-Player-App-in-JavaScript
+
+freeCodeCamp Practice Project

@@ -7,7 +7,6 @@
   --foreground-color: #3b3b4f;
   --highlight-color: #f1be32;
 
-
   /* font sizes */
   --root-font-size: 16px;
   font-size: var(--root-font-size);
